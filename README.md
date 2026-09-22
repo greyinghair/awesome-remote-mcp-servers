@@ -1268,7 +1268,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Swiss Ephemeris astrology for agents: natal chart, transits, synastry and a birth-place resolver (coordinates + historically correct UTC offset); sign in with a Stellara account, `sk_stellara_` API keys work as bearer tokens too.
 - [toolvend](https://toolvend.dev/) `https://toolvend.dev/mcp`
   [![toolvend MCP connector](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools)
-  🔓 - Nine utility tools: DNS, RDAP, LEI, sitemaps, robots.txt, extraction, text cleanup, VAT and QR; x402 USDC per call.
+  🔓 - Ten x402-paid tools: URL inspection, DNS, RDAP, LEI, sitemaps, robots.txt, extraction, text cleanup, VAT and QR.
 - [Tseha](https://tseha.io) `https://tseha.io/mcp`
   [![Tseha MCP connector](https://glama.ai/mcp/connectors/io.tseha/tseha/badges/score.svg)](https://glama.ai/mcp/connectors/io.tseha/tseha)
   🔓 - Ethiopian calendar and date conversion.
